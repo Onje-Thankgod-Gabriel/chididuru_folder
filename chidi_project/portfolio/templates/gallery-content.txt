@@ -1,0 +1,462 @@
+<div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c2.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c2.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c2.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c3.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c3.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c3.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c4.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c4.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c4.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c5.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c5.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c5.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c6.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c6.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c6.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c7.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c7.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c7.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c8.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c8.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c8.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c9.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c9.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c9.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c11.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c11.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c11.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c12.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c12.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c12.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c13.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c13.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c13.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c14.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c14.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c14.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c15.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c15.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c15.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c16.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c16.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c16.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c17.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c17.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c17.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c18.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c18.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c18.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c19.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c19.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c19.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <!-- <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c21.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c21.jpg' %}"
+                                    srcset="images/chididuruGallery/c21.jpg"
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c22.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c22.jpg' %}"
+                                    srcset="images/chididuruGallery/c22.jpg"
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div> -->
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c23.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c23.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c23.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <!-- <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c24.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c24.jpg' %}"
+                                    srcset="images/chididuruGallery/c24.jpg"
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div> -->
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c25.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c25.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c25.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c26.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c26.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c26.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c26.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c26.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c26.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c27.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c27.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c27.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <!-- <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c28.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c28.jpg' %}"
+                                    srcset="images/chididuruGallery/c28.jpg"
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div> -->
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c29.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c29.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c29.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <!-- <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c31.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c31.jpg' %}"
+                                    srcset="images/chididuruGallery/c31.jpg"
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div> -->
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c32.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c32.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c32.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        {% comment %} <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c33.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c33jpg' %}"
+                                    
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div> {% endcomment %}
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c34.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c34.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c34.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c35.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c35.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c35.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c36.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c36.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c36.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c37.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c37.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c37.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c38.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c38.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c38.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <!-- <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c39.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c39.jpg' %}"
+                                    srcset="images/chididuruGallery/c39.jpg"
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div> -->
+                        <!-- <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c41.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c41.jpg' %}"
+                                    srcset="images/chididuruGallery/c41.jpg"
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div> -->
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c42.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c42.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c42.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <!-- <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c43.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c43.jpg' %}"
+                                    srcset="images/chididuruGallery/c43.jpg"
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c44.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c44.jpg' %}"
+                                    srcset="images/chididuruGallery/c44.jpg"
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div> -->
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c45.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c45.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c45.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c46.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c46.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c46.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c47.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c47.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c47.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c48.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c48.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c48.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c49.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c49.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c49.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c51.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c51.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c51.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c52.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c52.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c52.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c53.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c53.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c53.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c54.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c54.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c54.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c55.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c55.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c55.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c56.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c56.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c56.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c57.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c57.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c57.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c58.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c58.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c58.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c59.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c59.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c59.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c61.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c61.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c61.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c62.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c62.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c62.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c63.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c63.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c63.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c64.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c64.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c64.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c65.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c65.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c65.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c66.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c66.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c66.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c67.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c67.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c67.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c68.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c68.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c68.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c69.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c69.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c69.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c70.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c70.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c70.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c71.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c71.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c71.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
+                        <div class="new-portfolio-item">
+                            <a href="images/chididuruGallery/c72.jpg" data-fancybox="gallery" class="img-style">
+                                <img decoding="async" loading="lazy" src="{% static 'images/chididuruGallery/c72.jpg' %}"
+                                    {% comment %} srcset="images/chididuruGallery/c72.jpg" {% endcomment %}
+                                    sizes="(max-width: 582px) 100vw, 582px" width="582" height="388" alt="portfolio">
+                            </a>  
+                        </div>
